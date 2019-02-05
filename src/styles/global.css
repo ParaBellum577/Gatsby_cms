@@ -1,0 +1,7 @@
+
+.links_top ul{
+    display: flex;
+} 
+.links_top ul li {
+    margin-right: 20px;
+}
